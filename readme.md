@@ -9,6 +9,7 @@
 ## Contribution Graph
 
 
-![Contribution Graph](https://github.com/MohammadTaseenKhan/hitchatter-docs/graphs/contributors)
 
-Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
+![Contribution Graph](https://github.com/MohammadTaseenKhan/chitchatter-docs/graphs/contributors)
+
+Created by [@jeremyckahn](https://github.com/jeremyckahn) and [@MDTaseenKhan](https://github.com/MohammadTaseenKhan) at [Chitchatter-docs](chitchatter-docs). Released under the GPL v2 license.
