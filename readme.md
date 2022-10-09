@@ -9,6 +9,6 @@
 ## Contribution Graph
 
 
-![Contribution Graph](http://ghchart.rshah.org/hitchatter-docs)
+![Contribution Graph](https://github.com/MohammadTaseenKhan/hitchatter-docs/graphs/contributors)
 
 Created by [@shuding](https://github.com/shuding) and [@pacocoursey](https://github.com/pacocoursey) at [Vercel](https://vercel.com). Released under the MIT license.
