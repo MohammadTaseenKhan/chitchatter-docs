@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/MohammadTaseenKhan/hitchatter-docs',
+  docsRepositoryBase: 'https://github.com/MohammadTaseenKhan/hitchatter-docs/blob/main',
   titleSuffix: ' – Chitchatter',
   logo: (
     <>
