@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/MohammadTaseenKhan/hitchatter-docs',
-  docsRepositoryBase: 'https://github.com/MohammadTaseenKhan/hitchatter-docs/blob/main',
+  github: 'https://github.com/MohammadTaseenKhan/chitchatter-docs',
+  docsRepositoryBase: 'https://github.com/MohammadTaseenKhan/chitchatter-docs/blob/main',
   titleSuffix: ' – Chitchatter',
   logo: (
     <>
