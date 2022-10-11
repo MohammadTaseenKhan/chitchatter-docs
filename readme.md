@@ -1,7 +1,6 @@
-# [chitchatter-docs](https://nextra.vercel.app)
+# [Chitchatter-docs](https://chitchatter-docs.vercel.app/)
 
-
-chitchatter-docs
+Chitchatter is a communication tool that is free, open source, and designed for simplicity and security. All communication between you and your online peers is encrypted. There is no trace of your conversation once you leave.
 
 ![](/public/demo.png)
 
