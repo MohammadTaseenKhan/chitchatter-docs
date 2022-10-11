@@ -1,8 +1,7 @@
-# [Nextra](https://nextra.vercel.app)
+# [chitchatter-docs](https://nextra.vercel.app)
 
 
-
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
+chitchatter-docs
 
 ![](/public/demo.png)
 
